@@ -23,13 +23,13 @@ export default class Player {
         this.yStandingPosition = this.y;
 
         this.standingStillImage = new Image();
-        this.standingStillImage.src = "images/standing_still.png";
+        this.standingStillImage.src = "Dino Run game/images/standing_still.png";
         this.image = this.standingStillImage;
 
         const dinoRunImage1 = new Image();
-        dinoRunImage1.src = "images/dino_run1.png";
+        dinoRunImage1.src = "Dino Run game/images/dino_run1.png";
         const dinoRunImage2 = new Image();
-        dinoRunImage2.src = "images/dino_run2.png";
+        dinoRunImage2.src = "Dino Run gameimages/dino_run2.png";
 
         this.dinoRunImages.push(dinoRunImage1);
         this.dinoRunImages.push(dinoRunImage2)
