@@ -20,9 +20,9 @@ const ground_Height = 24;
 const ground_And_Cactus_Speed = 0.5;
 
 const cacti_Config = [
-    {width: 48 / 1.5, height: 100 /1.5, image:"images/cactus_1.png"},
-    {width: 98 / 1.5, height: 100 /1.5, image:"images/cactus_2.png"},
-    {width: 68 / 1.5, height: 70 /1.5, image:"images/cactus_3.png"},]
+    {width: 48 / 1.5, height: 100 /1.5, image:"Dino Run game/images/cactus_1.png"},
+    {width: 98 / 1.5, height: 100 /1.5, image:"Dino Run game/images/cactus_2.png"},
+    {width: 68 / 1.5, height: 70 /1.5, image:"Dino Run game/images/cactus_3.png"},]
 
 
 // Game Objects
