@@ -29,7 +29,7 @@ export default class Player {
         const dinoRunImage1 = new Image();
         dinoRunImage1.src = "Dino Run game/images/dino_run1.png";
         const dinoRunImage2 = new Image();
-        dinoRunImage2.src = "Dino Run gameimages/dino_run2.png";
+        dinoRunImage2.src = "Dino Run game/images/dino_run2.png";
 
         this.dinoRunImages.push(dinoRunImage1);
         this.dinoRunImages.push(dinoRunImage2)
